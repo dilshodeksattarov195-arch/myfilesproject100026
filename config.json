@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvalculate",
+        "uuid": 60528,
+        "checksum": "f57799"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
